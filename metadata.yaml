@@ -1,0 +1,32 @@
+_repo: Indoor-and-Outdoor-Recreations-for-Girls_42549
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42549-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Beard, Adelia B. (Adelia Belle)
+    alias: Beard, Adelia Belle
+    birthdate: 1857
+    deathdate: 1920
+    gutenberg_agent_id: '8087'
+    url: http://www.gutenberg.org/2009/agents/8087
+  - agent_name: Beard, Lina
+    gutenberg_agent_id: '8086'
+    url: http://www.gutenberg.org/2009/agents/8086
+description: ''
+gutenberg_issued: '2013-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42549'
+  lccn: 06040579
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Amusements'
+- !lcc 'GV'
+- !lcsh 'Games'
+title: Indoor and Outdoor Recreations for Girls
+url: http://www.gutenberg.org/ebooks/42549
